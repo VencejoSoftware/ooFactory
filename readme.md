@@ -4,7 +4,7 @@
 Library to manipulate [factories](https://en.wikipedia.org/wiki/Factory_(object-oriented_programming))
 
 ### Documentation
-If not exists folder "doc" then run the batch "build_doc". The main entry is ./doc/index.html
+If not exists folder "code-documentation" then run the batch "build_doc". The main entry is ./doc/index.html
 
 ### Demo
 Before all, run the batch "build_demo" to build proyect. Then go to the folder "demo\build\release\" and run the executable.
